@@ -6,5 +6,5 @@ Web design for savethehawkers.
     <img src="/screenshots/Home.png" width="400px"</img> 
 </div>
 <div align="center">
-    <img src="/screenshots/Home-mobile.png" width="400px"</img> 
+    <img src="/screenshots/Home-mobile.png" width="100px"</img> 
 </div>
