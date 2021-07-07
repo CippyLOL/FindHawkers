@@ -2,9 +2,9 @@
 Web design for savethehawkers.
 
 ## Screenshots
-<div >
+<div align="center>
     <img src="/screenshots/Home.png" width="400px"</img> 
 </div>
-<div >
-    <img src="/screenshots/Home-mobile.png" width="200px"</img> 
+<div align="center>
+    <img src="/screenshots/Listing-results.png" width="200px"</img> 
 </div>
